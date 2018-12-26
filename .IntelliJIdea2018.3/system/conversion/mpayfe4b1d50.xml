@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\language\project\pay\mpay\.idea\artifacts\mpay_jar.xml" timestamp="1544969484161" />
+    <file path="D:\language\project\pay\mpay\.idea\encodings.xml" timestamp="1544968516757" />
+    <file path="D:\language\project\pay\mpay\.idea\libraries\alicom_mns_receive_sdk_1_0_1.xml" timestamp="1544968689993" />
+    <file path="D:\language\project\pay\mpay\.idea\misc.xml" timestamp="1544968528859" />
+    <file path="D:\language\project\pay\mpay\.idea\modules.xml" timestamp="1544968528869" />
+    <file path="D:\language\project\pay\mpay\.idea\workspace.xml" timestamp="1545404861868" />
+    <file path="D:\language\project\pay\mpay\mpay.iml" timestamp="1544968689963" />
+  </project-files>
+</conversion>
+

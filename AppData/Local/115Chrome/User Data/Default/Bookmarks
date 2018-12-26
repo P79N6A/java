@@ -1,0 +1,96 @@
+{
+   "checksum": "86aaacc47249b1b04b801a0fe8df6cf3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13176294613078492",
+            "id": "13",
+            "name": "京东商城",
+            "type": "url",
+            "url": "http://ie.157167.com/jingdong.html"
+         }, {
+            "date_added": "13176294613079464",
+            "id": "14",
+            "name": "信用卡申请",
+            "type": "url",
+            "url": "http://xyk.260260.com/"
+         }, {
+            "date_added": "13176294613082341",
+            "id": "15",
+            "name": "天猫精选",
+            "type": "url",
+            "url": "http://sc.195155.com/tmall.html"
+         }, {
+            "date_added": "13176294613083115",
+            "id": "16",
+            "name": "携程网",
+            "type": "url",
+            "url": "http://xc.260260.com/"
+         }, {
+            "date_added": "13176294613085113",
+            "id": "17",
+            "name": "淘宝网",
+            "type": "url",
+            "url": "http://sc.195155.com/taobao.html"
+         }, {
+            "date_added": "13176294613085853",
+            "id": "18",
+            "name": "游戏加速",
+            "type": "url",
+            "url": "http://sc.195155.com/yxjs.html"
+         }, {
+            "date_added": "13176294613087327",
+            "id": "19",
+            "name": "玩手机游戏",
+            "type": "url",
+            "url": "http://pc2.shuowan.cc/"
+         }, {
+            "date_added": "13176294613088652",
+            "id": "20",
+            "name": "百度一下",
+            "type": "url",
+            "url": "http://sc.195155.com/baidu.html"
+         }, {
+            "date_added": "13176294613090459",
+            "id": "21",
+            "name": "网址导航",
+            "type": "url",
+            "url": "http://sc.195155.com/hao123.html"
+         }, {
+            "date_added": "13176294613091745",
+            "id": "22",
+            "name": "网页游戏",
+            "type": "url",
+            "url": "http://sc.195155.com/yeyou.html"
+         }, {
+            "date_added": "13176294613092430",
+            "id": "23",
+            "name": "购物导航",
+            "type": "url",
+            "url": "http://www.huitaoba.com/"
+         } ],
+         "date_added": "13176275322899909",
+         "date_modified": "0",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13176275322899916",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13176275322899918",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

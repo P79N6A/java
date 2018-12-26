@@ -1,0 +1,202 @@
+10-Dec-2018 20:52:17.521 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.30
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 20:04:09 UTC
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.30.0
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project\conf\logging.properties
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\language\development\tomcat\apache-tomcat-8.5.30\temp
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+10-Dec-2018 20:52:17.531 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10-Dec-2018 20:52:17.541 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Dec-2018 20:52:18.583 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+10-Dec-2018 20:52:18.870 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:52:18.890 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:52:18.900 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:52:18.910 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:52:18.910 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2234 ms
+10-Dec-2018 20:52:18.950 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2018 20:52:18.950 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.30
+10-Dec-2018 20:52:18.960 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:52:18.970 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:52:18.970 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 65 ms
+10-Dec-2018 20:52:23.309 信息 [RMI TCP Connection(5)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Dec-2018 20:52:24.882 严重 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+10-Dec-2018 20:52:24.882 严重 [RMI TCP Connection(5)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal Context [/test_weixinpay_project_war_exploded] startup failed due to previous errors
+10-Dec-2018 20:52:28.968 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager]
+10-Dec-2018 20:52:29.048 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager] has finished in [80] ms
+10-Dec-2018 20:54:49.374 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Dec-2018 20:54:49.374 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:54:49.474 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:54:49.565 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Dec-2018 20:54:49.575 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:54:49.575 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:54:49.585 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:54:49.585 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.30
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 20:04:09 UTC
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.30.0
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Dec-2018 20:55:08.589 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project\conf\logging.properties
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\language\development\tomcat\apache-tomcat-8.5.30\temp
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10-Dec-2018 20:55:08.599 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Dec-2018 20:55:09.652 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+10-Dec-2018 20:55:09.812 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:55:09.842 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:55:09.852 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:55:09.852 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:55:09.852 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1785 ms
+10-Dec-2018 20:55:09.902 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2018 20:55:09.902 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.30
+10-Dec-2018 20:55:09.922 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:55:09.932 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:55:09.932 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 79 ms
+10-Dec-2018 20:55:13.706 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Dec-2018 20:55:14.996 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+10-Dec-2018 20:55:14.996 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal Context [/test_weixinpay_project_war_exploded] startup failed due to previous errors
+10-Dec-2018 20:55:19.926 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager]
+10-Dec-2018 20:55:19.986 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager] has finished in [60] ms
+10-Dec-2018 20:56:57.280 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Dec-2018 20:56:57.280 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:56:57.400 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:56:57.490 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Dec-2018 20:56:57.490 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:56:57.500 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:56:57.500 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:56:57.500 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:57:13.881 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.30
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 20:04:09 UTC
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.30.0
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project\conf\logging.properties
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\language\development\tomcat\apache-tomcat-8.5.30\temp
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+10-Dec-2018 20:57:13.891 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10-Dec-2018 20:57:13.901 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Dec-2018 20:57:14.933 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+10-Dec-2018 20:57:15.103 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:57:15.123 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:57:15.143 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:57:15.153 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:57:15.153 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1722 ms
+10-Dec-2018 20:57:15.193 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2018 20:57:15.193 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.30
+10-Dec-2018 20:57:15.203 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:57:15.213 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:57:15.223 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 67 ms
+10-Dec-2018 20:57:19.205 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Dec-2018 20:57:20.627 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+10-Dec-2018 20:57:20.627 严重 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.StandardContext.startInternal Context [/test_weixinpay_project_war_exploded] startup failed due to previous errors
+10-Dec-2018 20:57:25.205 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager]
+10-Dec-2018 20:57:25.275 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager] has finished in [70] ms
+10-Dec-2018 20:58:03.744 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Dec-2018 20:58:03.744 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:58:03.844 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:58:03.934 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Dec-2018 20:58:03.944 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:58:03.944 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:58:03.954 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:58:03.954 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.30
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 3 2018 20:04:09 UTC
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.30.0
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_191\jre
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project\conf\logging.properties
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Dec-2018 20:58:17.095 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.3\system\tomcat\Unnamed_test-weixinpay-project
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\language\development\tomcat\apache-tomcat-8.5.30
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\language\development\tomcat\apache-tomcat-8.5.30\temp
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10-Dec-2018 20:58:17.105 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Dec-2018 20:58:18.166 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+10-Dec-2018 20:58:18.326 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:58:18.346 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:58:18.366 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:58:18.366 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Dec-2018 20:58:18.366 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1751 ms
+10-Dec-2018 20:58:18.396 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Dec-2018 20:58:18.406 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.30
+10-Dec-2018 20:58:18.416 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 20:58:18.426 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 20:58:18.426 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 58 ms
+10-Dec-2018 20:58:22.439 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Dec-2018 20:58:28.416 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager]
+10-Dec-2018 20:58:28.456 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\language\development\tomcat\apache-tomcat-8.5.30\webapps\manager] has finished in [40] ms
+10-Dec-2018 21:05:06.029 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+10-Dec-2018 21:05:06.029 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 21:05:06.139 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 21:05:06.189 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Dec-2018 21:05:06.229 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 21:05:06.229 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+10-Dec-2018 21:05:06.229 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+10-Dec-2018 21:05:06.229 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

@@ -1,0 +1,68 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="payTest">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>com.demodashi.base</groupId>
+            <artifactId>test-weixinpay-project</artifactId>
+            <version>1.0.0</version>
+          </MavenIdBean>
+        </id>
+        <directory>D:/language/project/pay/pay-project</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogQWRtaW5pc3RyYXRvcg0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjgNCg0K</manifest>
+        <classpath>servlet-api-2.5.jar spring-web-4.3.3.RELEASE.jar spring-webmvc-4.3.3.RELEASE.jar spring-expression-4.3.3.RELEASE.jar spring-core-4.3.3.RELEASE.jar commons-logging-1.2.jar spring-beans-4.3.3.RELEASE.jar spring-orm-4.3.3.RELEASE.jar spring-context-4.3.3.RELEASE.jar spring-context-support-4.3.3.RELEASE.jar spring-aop-4.3.3.RELEASE.jar spring-jdbc-4.3.3.RELEASE.jar spring-tx-4.3.3.RELEASE.jar httpcore-4.3.jar commons-fileupload-1.2.2.jar commons-io-2.4.jar commons-beanutils-1.8.3.jar commons-lang-2.6.jar commons-lang3-3.1.jar commons-configuration-1.9.jar commons-validator-1.5.0.jar commons-digester-1.8.1.jar commons-collections-3.2.2.jar h2-1.3.167.jar commons-dbcp-1.4.jar commons-pool-1.5.4.jar c3p0-0.9.1.2.jar javax.inject-1.jar cglib-2.2.2.jar asm-3.3.1.jar groovy-backports-compat23-2.4.0-beta-3.jar slf4j-api-1.7.10.jar log4j-1.2-api-2.6.2.jar log4j-api-2.6.2.jar log4j-core-2.6.2.jar jdom-1.1.3.jar aspectjweaver-1.8.8.jar jackson-core-2.6.2.jar jackson-databind-2.6.2.jar jackson-annotations-2.6.2.jar zxing-1.0.0.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="test-weixinpay-project" />
+          <entry key="build.directory" value="D:\language\project\pay\pay-project\target" />
+          <entry key="build.finalName" value="pay" />
+          <entry key="build.outputDirectory" value="D:\language\project\pay\pay-project\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="D:\language\project\pay\pay-project\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="D:\language\project\pay\pay-project\src\main\java" />
+          <entry key="build.testOutputDirectory" value="D:\language\project\pay\pay-project\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="D:\language\project\pay\pay-project\src\test\java" />
+          <entry key="groupId" value="com.demodashi.base" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="com.demodashi.base-test-weixinpay-project-1.0.0" />
+          <entry key="packaging" value="war" />
+          <entry key="pomFile" value="D:\language\project\pay\pay-project\pom.xml" />
+          <entry key="reporting.outputDirectory" value="D:\language\project\pay\pay-project\target\site" />
+          <entry key="version" value="1.0.0" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_191/jre" />
+          <entry key="java.version" value="1.8" />
+          <entry key="local.repository.path" value="file://D:\language\project\pay\pay-project/lib" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\Users\Administrator\.m2\repository" />
+          <entry key="version.jsr311" value="1.0" />
+          <entry key="version.spring" value="4.3.3.RELEASE" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="true">
+            <directory>D:/language/project/pay/pay-project/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="true">
+            <directory>D:/language/project/pay/pay-project/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

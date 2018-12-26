@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 15 15:58:58 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1544860738819
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter\:jar\:javadoc\:2.1.1.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.188.215] failed\: Connection timed out\: connect

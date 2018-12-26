@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1928163550">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="14" />
+        <usage id="project.open.time.2" value="2" />
+        <usage id="project.open.time.18" value="2" />
+        <usage id="project.closed" value="13" />
+        <usage id="project.open.time.23" value="1" />
+        <usage id="project.open.time.20" value="2" />
+        <usage id="project.open.time.24" value="2" />
+        <usage id="project.open.time.5" value="2" />
+        <usage id="project.open.time.22" value="1" />
+        <usage id="project.open.time.6" value="1" />
+        <usage id="project.open.time.25" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JavaScript" value="5" />
+        <usage id="HTML" value="69" />
+        <usage id="Properties" value="8" />
+        <usage id="XML" value="8" />
+        <usage id="JAVA" value="97" />
+        <usage id="CSS" value="1" />
+        <usage id="CLASS" value="2" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="SpringBootApplicationConfigurationType" value="13">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="SpringBootApplicationConfigurationType" value="118">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+        <usage id="MavenRunConfiguration" value="6">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="JUnit" value="1">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="207" />
+        <usage id="XML" value="7" />
+        <usage id="HTML" value="147" />
+        <usage id="Properties" value="5" />
+        <usage id="PLAIN_TEXT" value="2" />
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="6">
+          <context>
+            <entry key="data_1" value="from." />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="DownloadSelectedSourcesAction" value="1">
+          <context>
+            <entry key="data_1" value="from." />
+            <entry key="data_2" value="fromContextMenu.true" />
+          </context>
+        </usage>
+        <usage id="AddManagedFilesAction" value="1">
+          <context>
+            <entry key="data_1" value="from.Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="UpdateFoldersAction" value="1">
+          <context>
+            <entry key="data_1" value="from.Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+        <usage id="DownloadAllSourcesAndDocsAction" value="1">
+          <context>
+            <entry key="data_1" value="from.Maven Navigator Toolbar" />
+            <entry key="data_2" value="fromContextMenu.true" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="25" />
+        <usage id="new.java-line" value="24" />
+        <usage id="new.within.session" value="24" />
+        <usage id="verified.10+" value="16" />
+        <usage id="verified.1+" value="1" />
+        <usage id="verified.100+" value="6" />
+        <usage id="new.javascript" value="1" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LossyEncoding</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+</project>

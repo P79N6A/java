@@ -1,0 +1,10 @@
+01-Dec-2018 09:34:18.050 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webApp.log4j.path' = [D:\language\project\JSH_ERP\target\jshERP-2018.11.27\]
+01-Dec-2018 09:34:18.050 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [classpath:log4j/log4j.properties]
+01-Dec-2018 09:34:18.340 信息 [RMI TCP Connection(3)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+01-Dec-2018 11:09:12.833 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+01-Dec-2018 11:09:12.846 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j
+01-Dec-2018 11:09:44.834 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Set web app root system property: 'webApp.log4j.path' = [D:\language\project\JSH_ERP\target\jshERP-2018.11.27\]
+01-Dec-2018 11:09:44.836 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing log4j from [classpath:log4j/log4j.properties]
+01-Dec-2018 11:09:45.109 信息 [RMI TCP Connection(2)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+01-Dec-2018 23:12:46.219 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+01-Dec-2018 23:12:46.229 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Shutting down log4j

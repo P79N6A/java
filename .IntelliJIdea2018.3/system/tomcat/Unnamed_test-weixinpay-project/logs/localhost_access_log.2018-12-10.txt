@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/Dec/2018:20:58:27 +0800] "GET /test_weixinpay_project_war_exploded/ HTTP/1.1" 200 1493
+127.0.0.1 - - [10/Dec/2018:20:58:27 +0800] "GET / HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:27 +0800] "GET /test_weixinpay_project_war_exploded/ HTTP/1.1" 200 1493
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:27 +0800] "GET /test_weixinpay_project_war_exploded/resource/js/jquery-2.min.js HTTP/1.1" 200 84349
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:27 +0800] "GET /test_weixinpay_project_war_exploded/resource/js/layer/layer.js HTTP/1.1" 200 14941
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:27 +0800] "GET /test_weixinpay_project_war_exploded/resource/js/layer/skin/layer.css HTTP/1.1" 200 11336
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:27 +0800] "GET /favicon.ico HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [10/Dec/2018:20:58:38 +0800] "GET /test_weixinpay_project_war_exploded/alipay/ali.do HTTP/1.1" 200 5

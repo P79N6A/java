@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 13 22:30:52 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1544711452124
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.aliyun\:sdk-dysmsapi\:pom\:1.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

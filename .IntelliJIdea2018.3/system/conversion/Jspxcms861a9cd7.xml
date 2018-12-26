@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\language\project\Jspxcms\.idea\artifacts\jspxcms_war.xml" timestamp="1544002923859" />
+    <file path="D:\language\project\Jspxcms\.idea\artifacts\jspxcms_war_exploded.xml" timestamp="1544002923867" />
+    <file path="D:\language\project\Jspxcms\.idea\compiler.xml" timestamp="1502697923829" />
+    <file path="D:\language\project\Jspxcms\.idea\copyright\profiles_settings.xml" timestamp="1502697713564" />
+    <file path="D:\language\project\Jspxcms\.idea\encodings.xml" timestamp="1502697923832" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" timestamp="1502697923881" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1502697923888" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1502697923896" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_alibaba_fastjson_1_2_3.xml" timestamp="1502697923905" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_fasterxml_classmate_1_3_3.xml" timestamp="1502697923912" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1502697923920" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" timestamp="1502697923926" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" timestamp="1502697923934" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_foxinmy_weixin4j_base_1_7_4.xml" timestamp="1502697923940" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_foxinmy_weixin4j_mp_1_7_4.xml" timestamp="1502697923946" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_github_livesense_jodconverter_core_1_0_5.xml" timestamp="1502697923952" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_google_code_findbugs_annotations_2_0_1.xml" timestamp="1502697923957" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" timestamp="1502697923963" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_google_guava_guava_18_0.xml" timestamp="1502697923969" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_googlecode_owasp_java_html_sanitizer_owasp_java_html_sanitizer_20160924_1.xml" timestamp="1502697923976" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_hynnet_jacob_1_14_3.xml" timestamp="1502697923982" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_infradna_tool_bridge_method_annotation_1_13.xml" timestamp="1502697923989" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_2_0.xml" timestamp="1502697923996" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_jhlabs_filters_2_0_235.xml" timestamp="1502697924002" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_mysema_codegen_codegen_0_6_8.xml" timestamp="1502697924009" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_mysema_commons_mysema_commons_lang_0_2_4.xml" timestamp="1502697924016" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_querydsl_querydsl_apt_4_1_4.xml" timestamp="1502697924025" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_querydsl_querydsl_codegen_4_1_4.xml" timestamp="1502697924030" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_querydsl_querydsl_core_4_1_4.xml" timestamp="1502697924036" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_querydsl_querydsl_jpa_4_1_4.xml" timestamp="1502697924043" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_sun_mail_javax_mail_1_5_6.xml" timestamp="1502697924050" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1502697924057" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_3.xml" timestamp="1502697924063" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1502697924069" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1502697924074" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" timestamp="1502697924080" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__commons_net_commons_net_3_4.xml" timestamp="1502697924087" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1502697924093" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__eu_bitwalker_UserAgentUtils_1_20.xml" timestamp="1502697924099" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__io_leopard_thirdparty_jcaptcha_api_2_0_0.xml" timestamp="1502697924104" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__io_leopard_thirdparty_jcaptcha_core_2_0_0.xml" timestamp="1502697924110" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__jakarta_regexp_jakarta_regexp_1_4.xml" timestamp="1502697924116" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_activation_activation_1_1.xml" timestamp="1502697924122" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" timestamp="1502697924127" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_jdo_jdo_api_3_0_1.xml" timestamp="1502697924132" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_2_1.xml" timestamp="1502697924138" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_servlet_jstl_1_2.xml" timestamp="1502697924144" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_transaction_javax_transaction_api_1_2.xml" timestamp="1502697924150" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_transaction_jta_1_1.xml" timestamp="1502697924155" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1502697924161" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__joda_time_joda_time_2_9_7.xml" timestamp="1502697924167" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1502697924172" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_41.xml" timestamp="1502697924180" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__net_minidev_accessors_smart_1_1.xml" timestamp="1502697924186" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__net_minidev_json_smart_2_2_1.xml" timestamp="1502697924192" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__net_sf_ehcache_ehcache_core_2_6_11.xml" timestamp="1502697924198" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_ant_ant_1_9_6.xml" timestamp="1502697924205" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_ant_ant_launcher_1_9_6.xml" timestamp="1502697924211" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_4.xml" timestamp="1502697924218" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" timestamp="1502697924224" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" timestamp="1502697924230" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_lucene_lucene_analyzers_3_6_2.xml" timestamp="1502697924236" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_lucene_lucene_core_3_6_2.xml" timestamp="1502697924243" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_lucene_lucene_highlighter_3_6_2.xml" timestamp="1502697924249" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_lucene_lucene_memory_3_6_2.xml" timestamp="1502697924254" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_lucene_lucene_queries_3_6_2.xml" timestamp="1502697924267" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_poi_poi_3_13.xml" timestamp="1502697924273" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_poi_poi_scratchpad_3_13.xml" timestamp="1502697924279" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_3_2.xml" timestamp="1502697924285" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_shiro_shiro_ehcache_1_3_2.xml" timestamp="1502697924292" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_shiro_shiro_spring_1_3_2.xml" timestamp="1502697924297" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_shiro_shiro_web_1_3_2.xml" timestamp="1502697924303" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_73.xml" timestamp="1502697924311" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_73.xml" timestamp="1502697924318" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_jasper_7_0_73.xml" timestamp="1502697924325" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_7_0_73.xml" timestamp="1502697924330" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_7_0_73.xml" timestamp="1502697924336" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_7_0_73.xml" timestamp="1502697924341" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_9.xml" timestamp="1502697924346" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_assertj_assertj_core_2_6_0.xml" timestamp="1502697924351" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_eclipse_jdt_core_compiler_ecj_4_4_2.xml" timestamp="1502697924357" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_freemarker_freemarker_2_3_25_incubating.xml" timestamp="1502697924363" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1502697924368" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1502697924374" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" timestamp="1502697924380" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" timestamp="1502697924386" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_hibernate_ehcache_5_0_12_Final.xml" timestamp="1502697924392" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" timestamp="1502697924398" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" timestamp="1502697924405" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" timestamp="1502697924411" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_htmlparser_htmllexer_2_1.xml" timestamp="1502697924417" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_htmlparser_htmlparser_2_1.xml" timestamp="1502697924422" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_im4java_im4java_1_4_0.xml" timestamp="1502697924429" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_imgscalr_imgscalr_lib_4_2.xml" timestamp="1502697924435" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1502697924440" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_jboss_jandex_2_0_0_Final.xml" timestamp="1502697924446" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" timestamp="1502697924451" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" timestamp="1502697924457" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_objenesis_objenesis_2_1.xml" timestamp="1502697924462" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_ocpsoft_prettytime_prettytime_4_0_1_Final.xml" timestamp="1502697924467" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_openoffice_juh_3_2_1.xml" timestamp="1502697924473" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_openoffice_jurt_3_2_1.xml" timestamp="1502697924480" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_openoffice_ridl_3_2_1.xml" timestamp="1502697924485" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_openoffice_unoil_3_2_1.xml" timestamp="1502697924490" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_ow2_asm_asm_5_0_3.xml" timestamp="1502697924498" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_api_mockito_1_6_6.xml" timestamp="1502697924503" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_api_mockito_common_1_6_6.xml" timestamp="1502697924509" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_api_support_1_6_6.xml" timestamp="1502697924514" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_core_1_6_6.xml" timestamp="1502697924520" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_module_junit4_1_6_6.xml" timestamp="1502697924526" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_module_junit4_common_1_6_6.xml" timestamp="1502697924532" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_powermock_powermock_reflect_1_6_6.xml" timestamp="1502697924539" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_quartz_scheduler_quartz_2_2_2.xml" timestamp="1502697924545" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_reflections_reflections_0_9_9.xml" timestamp="1502697924551" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_skyscreamer_jsonassert_1_4_0.xml" timestamp="1502697924557" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" timestamp="1502697924562" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" timestamp="1502697924568" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" timestamp="1502697924574" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_24.xml" timestamp="1502697924579" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" timestamp="1502697924585" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" timestamp="1502697924590" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_devtools_1_5_2_RELEASE.xml" timestamp="1502697924596" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" timestamp="1502697924602" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_5_2_RELEASE.xml" timestamp="1502697924607" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_2_RELEASE.xml" timestamp="1502697924612" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_2_RELEASE.xml" timestamp="1502697924619" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" timestamp="1502697924624" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" timestamp="1502697924629" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_mail_1_5_2_RELEASE.xml" timestamp="1502697924635" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_mobile_1_5_2_RELEASE.xml" timestamp="1502697924641" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_5_2_RELEASE.xml" timestamp="1502697924647" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" timestamp="1502697924652" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" timestamp="1502697924658" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_1_5_2_RELEASE.xml" timestamp="1502697924664" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_2_RELEASE.xml" timestamp="1502697924671" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_13_1_RELEASE.xml" timestamp="1502697924678" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_11_1_RELEASE.xml" timestamp="1502697924684" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_mobile_spring_mobile_device_1_1_5_RELEASE.xml" timestamp="1502697924690" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" timestamp="1502697924695" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" timestamp="1502697924700" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" timestamp="1502697924706" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" timestamp="1502697924712" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_context_support_4_3_7_RELEASE.xml" timestamp="1502697924718" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" timestamp="1502697924724" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" timestamp="1502697924729" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" timestamp="1502697924734" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_orm_4_3_7_RELEASE.xml" timestamp="1502697924739" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_test_4_3_7_RELEASE.xml" timestamp="1502697924744" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" timestamp="1502697924749" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" timestamp="1502697924756" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" timestamp="1502697924761" />
+    <file path="D:\language\project\Jspxcms\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1502697924767" />
+    <file path="D:\language\project\Jspxcms\.idea\misc.xml" timestamp="1544002923839" />
+    <file path="D:\language\project\Jspxcms\.idea\modules.xml" timestamp="1502697923837" />
+    <file path="D:\language\project\Jspxcms\.idea\workspace.xml" timestamp="1544002923850" />
+    <file path="D:\language\project\Jspxcms\jspxcms.iml" timestamp="1544002923826" />
+  </project-files>
+</conversion>
+

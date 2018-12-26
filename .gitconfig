@@ -1,0 +1,10 @@
+[user]
+	name = jokelone
+	email = jokelone@yeah.net
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[gui]
+	recentrepo = D:/language/w

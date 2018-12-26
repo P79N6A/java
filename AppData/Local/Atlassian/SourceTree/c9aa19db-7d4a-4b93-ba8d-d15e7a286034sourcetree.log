@@ -1,0 +1,28 @@
+2018-12-16T11:44:53: VaultClient::Delete
+2018-12-16T11:44:53:    credentials not found for git:http://dffd@114.116.136.135
+2018-12-16T11:44:53: VaultClient::Delete
+2018-12-16T11:44:53:    credentials not found for sourcetree-rest:http://dffd@114.116.136.135
+2018-12-16T11:45:45: VaultClient::Delete
+2018-12-16T11:45:45:    credentials not found for git:https://joke@114.116.136.135
+2018-12-16T11:45:45: VaultClient::Delete
+2018-12-16T11:45:45:    credentials not found for sourcetree-rest:https://joke@114.116.136.135
+2018-12-16T11:47:22: VaultClient::Delete
+2018-12-16T11:47:22:    credentials not found for git:https://jokelone@114.116.136.135
+2018-12-16T11:47:22: VaultClient::Delete
+2018-12-16T11:47:22:    credentials not found for sourcetree-rest:https://jokelone@114.116.136.135
+2018-12-16T11:53:38: VaultClient::Delete
+2018-12-16T11:53:38:    credentials not found for git:https://joke@bitbucket.org/dashboard/overview
+2018-12-16T11:53:38: VaultClient::Delete
+2018-12-16T11:53:38:    credentials not found for sourcetree-rest:https://joke@bitbucket.org/dashboard/overview
+2018-12-16T11:54:06: VaultClient::Delete
+2018-12-16T11:54:06:    credentials not found for git:https://JOKE@bitbucket.org/dashboard/overview
+2018-12-16T11:54:06: VaultClient::Delete
+2018-12-16T11:54:06:    credentials not found for sourcetree-rest:https://JOKE@bitbucket.org/dashboard/overview
+2018-12-16T11:56:19: VaultClient::Delete
+2018-12-16T11:56:19:    credentials not found for git:https://jokelone@yeah.net@bitbucket.org/dashboard/overview
+2018-12-16T11:56:19: VaultClient::Delete
+2018-12-16T11:56:19:    credentials not found for sourcetree-rest:https://jokelone@yeah.net@bitbucket.org/dashboard/overview
+2018-12-16T13:05:16: VaultClient::Delete
+2018-12-16T13:05:16:    credentials not found for git:https://JOKE@bitbucket.org/dashboard/overview
+2018-12-16T13:05:16: VaultClient::Delete
+2018-12-16T13:05:16:    credentials not found for sourcetree-rest:https://JOKE@bitbucket.org/dashboard/overview

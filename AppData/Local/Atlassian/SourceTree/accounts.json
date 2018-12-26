@@ -1,0 +1,48 @@
+[
+  {
+    "$id": "23",
+    "$type": "SourceTree.Model.ScmAccount, SourceTree.Api.Host.Scm",
+    "IsDefault": false,
+    "Authenticate": true,
+    "HostInstance": {
+      "$id": "24",
+      "$type": "SourceTree.Host.Bitbucket.BitbucketInstance, SourceTree.Host.Bitbucket",
+      "Host": {
+        "$id": "25",
+        "$type": "SourceTree.Host.Bitbucket.BitbucketHost, SourceTree.Host.Bitbucket",
+        "Id": "bitbucket"
+      },
+      "BaseUrl": "https://bitbucket.org/",
+      "Protocol": "HTTPS"
+    },
+    "Credentials": {
+      "$id": "26",
+      "$type": "SourceTree.Api.Account.OAuth.TwoZero.OAuthTwoZeroCredentials, SourceTree.Api.Account.OAuth.TwoZero",
+      "AuthenticationScheme": {
+        "$type": "SourceTree.Api.Account.OAuth.TwoZero.OAuthTwoZeroBearerAuthenticationScheme, SourceTree.Api.Account.OAuth.TwoZero",
+        "Name": "OAuth",
+        "Description": "OAuth 令牌",
+        "HeaderValuePrefix": "Bearer",
+        "UsernameIsRequired": false
+      },
+      "Id": "7a2be2a6-5143-4573-a2cc-ded7655bb966",
+      "Username": "jokelin",
+      "DisplayName": null,
+      "Email": "jokelone@yeah.net",
+      "AvatarURL": null,
+      "EmailHash": "$2b$11$wgr1TJNVKwiK/dQBd3HKm.c1LYKHc9u/3aB9hrfcFkoDOhCV2oP6u"
+    }
+  },
+  {
+    "$id": "27",
+    "$type": "SourceTree.Api.Host.Identity.Model.IdentityAccount, SourceTree.Api.Host.Identity",
+    "IsDefault": false,
+    "Authenticate": true,
+    "HostInstance": {
+      "$ref": "24"
+    },
+    "Credentials": {
+      "$ref": "26"
+    }
+  }
+]

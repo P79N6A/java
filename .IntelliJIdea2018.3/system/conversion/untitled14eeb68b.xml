@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\language\project\untitled1\.idea\artifacts\untitled1_war_exploded2.xml" timestamp="1544355084917" />
+    <file path="D:\language\project\untitled1\.idea\encodings.xml" timestamp="1544336216896" />
+    <file path="D:\language\project\untitled1\.idea\libraries\Spring_MVC_4_3_18_RELEASE.xml" timestamp="1544336220342" />
+    <file path="D:\language\project\untitled1\.idea\misc.xml" timestamp="1544336220312" />
+    <file path="D:\language\project\untitled1\.idea\modules.xml" timestamp="1544336220322" />
+    <file path="D:\language\project\untitled1\.idea\workspace.xml" timestamp="1544355323903" />
+    <file path="D:\language\project\untitled1\untitled1.iml" timestamp="1544336507564" />
+  </project-files>
+</conversion>
+

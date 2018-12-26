@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="643379454">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="1" />
+        <usage id="project.open.time.3" value="1" />
+        <usage id="project.closed" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="HTML" value="6" />
+        <usage id="JAVA" value="13" />
+        <usage id="XML" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="HTML" value="7" />
+        <usage id="JAVA" value="12" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="SpringBootApplicationConfigurationType" value="12">
+          <context>
+            <entry key="data_1" value="Debug" />
+          </context>
+        </usage>
+        <usage id="MavenRunConfiguration" value="3">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="5" />
+        <usage id="new.java-line" value="5" />
+        <usage id="new.within.session" value="5" />
+        <usage id="verified.100+" value="1" />
+        <usage id="verified.10+" value="4" />
+      </usages-collector>
+      <usages-collector id="statistics.build.maven.actions">
+        <usage id="RunBuildAction" value="2">
+          <context>
+            <entry key="data_1" value="from." />
+            <entry key="data_2" value="fromContextMenu.false" />
+          </context>
+        </usage>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+</project>

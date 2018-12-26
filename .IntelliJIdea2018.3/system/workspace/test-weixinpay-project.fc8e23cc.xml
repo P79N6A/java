@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="758097730">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="5" />
+        <usage id="project.open.time.1" value="1" />
+        <usage id="project.closed" value="5" />
+        <usage id="project.open.time.24" value="1" />
+        <usage id="project.open.time.2" value="1" />
+        <usage id="project.open.time.27" value="1" />
+        <usage id="project.open.time.22" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.run.configuration.start">
+        <usage id="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" value="29">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+        <usage id="Application" value="6">
+          <context>
+            <entry key="data_1" value="Run" />
+          </context>
+        </usage>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="JAVA" value="38" />
+        <usage id="JSP" value="1" />
+        <usage id="CLASS" value="6" />
+        <usage id="XML" value="12" />
+        <usage id="Properties" value="2" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <usage id="JAVA" value="46" />
+        <usage id="JSP" value="4" />
+        <usage id="XML" value="10" />
+      </usages-collector>
+      <usages-collector id="statistics.debugger.breakpoints.usage">
+        <usage id="new.breakpoint" value="2" />
+        <usage id="new.java-line" value="1" />
+        <usage id="new.java-method" value="1" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+</project>

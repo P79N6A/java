@@ -1,0 +1,54 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="444" y="123" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="363" y="186" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="463" y="246" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="18" />
+    <location key="new project wizard.0.0.1366.768" x="316" y="0" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="109" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="246" y="288" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1366.768" x="369" y="242" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="0" />
+    <location key="run.anything.popup.0.0.1366.768" x="338" y="156" />
+    <location key="search.everywhere.popup.0.0.1366.768" x="339" y="6" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="412" y="149" />
+    <location key="Registry.0.0.1366.768" x="254" y="24" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1366.768" x="462" y="221" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="72" />
+    <location key="DetectedRootsChooserDialog.0.0.1366.768" x="443" y="78" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="118" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" x="519" y="48" />
+    <location key="#HTTP_Proxy.0.0.1366.768" x="513" y="112" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" x="382" y="6" />
+    <location key="spring file set editor.0.0.1366.768" x="363" y="37" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="419" y="118" />
+    <location key="com.intellij.javaee.MapExternalResourceDialog.0.0.1366.768" x="358" y="18" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="417" y="0" />
+    <location key="#Project_Structure.0.0.1366.768" x="138" y="0" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="470" y="205" />
+    <location key="#Inspections.0.0.1366.768" x="315" y="41" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="225" />
+    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1322" height="218" />
+    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1322" height="218" />
+    <size key="new project wizard.0.0.1366.768" width="835" height="728" />
+    <size key="search.everywhere.popup.0.0.1366.768" width="672" height="676" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1366.768" width="441" height="295" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1176" height="692" />
+    <size key="SettingsEditor.0.0.1366.768" width="1158" height="728" />
+    <size key="DebuggerActiveHint.0.0.1366.768" width="427" height="456" />
+  </component>
+</application>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\language\project\erp\demo_01\.idea\compiler.xml" timestamp="1543719399092" />
+    <file path="D:\language\project\erp\demo_01\.idea\encodings.xml" timestamp="1543719399122" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__cglib_cglib_3_2_10.xml" timestamp="1544879214235" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_2_3.xml" timestamp="1543719399152" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__ch_qos_logback_logback_core_1_2_3.xml" timestamp="1543719399175" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_alibaba_druid_1_1_9.xml" timestamp="1544752594842" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" timestamp="1544664877197" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_alibaba_fastjson_1_2_41.xml" timestamp="1544664877211" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_3_0_6.xml" timestamp="1545722438548" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_annotation_3_0_6.xml" timestamp="1545722438562" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_boot_starter_3_0_6.xml" timestamp="1545722438576" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_core_3_0_6.xml" timestamp="1545722438587" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_extension_3_0_6.xml" timestamp="1545722438600" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_baomidou_mybatis_plus_generator_3_0_6.xml" timestamp="1545722438616" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_classmate_1_4_0.xml" timestamp="1545104259500" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_7.xml" timestamp="1545712300766" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" timestamp="1545712300778" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" timestamp="1545712300788" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" timestamp="1545712300799" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" timestamp="1545712300809" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" timestamp="1545712300819" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_1_2.xml" timestamp="1545722438631" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_google_guava_guava_17_0.xml" timestamp="1545709983424" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_4_0.xml" timestamp="1543719399329" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_thetransactioncompany_cors_filter_2_6.xml" timestamp="1544777144927" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_thetransactioncompany_java_property_utils_1_9_1.xml" timestamp="1544777144936" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1543719399344" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_xiaoleilu_hutool_all_3_3_0.xml" timestamp="1544683985463" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__com_zaxxer_HikariCP_3_2_0.xml" timestamp="1545104259603" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" timestamp="1544683816829" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1544683924981" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__commons_logging_commons_logging_1_1.xml" timestamp="1544683816839" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_lettuce_lettuce_core_5_1_3_RELEASE.xml" timestamp="1545104259626" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_buffer_4_1_31_Final.xml" timestamp="1545104259639" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_codec_4_1_31_Final.xml" timestamp="1545104259653" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_common_4_1_31_Final.xml" timestamp="1545104259664" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_handler_4_1_31_Final.xml" timestamp="1545104259679" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_resolver_4_1_31_Final.xml" timestamp="1545104259693" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_netty_netty_transport_4_1_31_Final.xml" timestamp="1545104259715" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__io_projectreactor_reactor_core_3_2_3_RELEASE.xml" timestamp="1545104259759" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__javax_annotation_javax_annotation_api_1_3_2.xml" timestamp="1543719399516" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__javax_servlet_jstl_1_2.xml" timestamp="1544685295688" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__javax_servlet_servlet_api_2_3.xml" timestamp="1544683816849" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__javax_validation_validation_api_2_0_1_Final.xml" timestamp="1545104259824" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1543719399550" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__mysql_mysql_connector_java_8_0_13.xml" timestamp="1543719399562" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_9_5.xml" timestamp="1543719399574" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__net_bytebuddy_byte_buddy_agent_1_9_5.xml" timestamp="1543719399584" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__net_minidev_accessors_smart_1_2.xml" timestamp="1543719399594" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__net_minidev_json_smart_2_3.xml" timestamp="1543719399615" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" timestamp="1545356508913" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_ant_ant_1_10_3.xml" timestamp="1544879214250" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_ant_ant_launcher_1_10_3.xml" timestamp="1544879214267" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_4.xml" timestamp="1544664877541" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" timestamp="1543719399625" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" timestamp="1544683398967" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" timestamp="1543719399635" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_shiro_shiro_cas_1_3_2.xml" timestamp="1544683816869" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_3_2.xml" timestamp="1544683816878" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_shiro_shiro_spring_1_3_2.xml" timestamp="1544683816886" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_shiro_shiro_web_1_3_2.xml" timestamp="1544683816895" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" timestamp="1545104259858" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" timestamp="1545104259885" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" timestamp="1545104259900" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_apache_velocity_velocity_engine_core_2_0.xml" timestamp="1544664877650" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_aspectj_aspectjrt_1_9_2.xml" timestamp="1544879214282" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_9_2.xml" timestamp="1544879214294" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_assertj_assertj_core_3_11_1.xml" timestamp="1543719399675" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" timestamp="1544009833731" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_freemarker_freemarker_2_3_28.xml" timestamp="1544594099539" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_freemarker_freemarker_gae_2_3_28.xml" timestamp="1544594099555" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1543719399685" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1543719399695" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" timestamp="1545104259923" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_jasig_cas_client_cas_client_core_3_2_2.xml" timestamp="1544683816913" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" timestamp="1545104259939" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_mockito_mockito_core_2_23_4.xml" timestamp="1543719399737" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_mybatis_mybatis_3_4_6.xml" timestamp="1545104259958" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_2.xml" timestamp="1545104259995" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" timestamp="1545104260012" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" timestamp="1545104260030" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_objenesis_objenesis_2_6.xml" timestamp="1543719399827" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_ow2_asm_asm_7_0.xml" timestamp="1544879214305" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_reactivestreams_reactive_streams_1_0_2.xml" timestamp="1545104260040" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_skyscreamer_jsonassert_1_5_0.xml" timestamp="1543719399869" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1543719399881" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1543719399924" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" timestamp="1543719399939" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" timestamp="1543719399951" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_1_RELEASE.xml" timestamp="1545722438647" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_devtools_2_1_1_RELEASE.xml" timestamp="1544093771508" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" timestamp="1543719399964" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_cache_2_1_1_RELEASE.xml" timestamp="1545104260052" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_1_RELEASE.xml" timestamp="1545104260069" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_1_RELEASE.xml" timestamp="1545104260079" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" timestamp="1545104260089" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" timestamp="1543719400025" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_2_1_1_RELEASE.xml" timestamp="1543719400030" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_1_RELEASE.xml" timestamp="1544009833740" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" timestamp="1545104260103" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" timestamp="1545104260119" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_2_1_1_RELEASE.xml" timestamp="1543719400062" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_1_RELEASE.xml" timestamp="1543719400071" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml" timestamp="1545104260137" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_data_spring_data_keyvalue_2_1_3_RELEASE.xml" timestamp="1545104260147" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_data_spring_data_redis_2_1_3_RELEASE.xml" timestamp="1545104260161" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" timestamp="1543719400128" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" timestamp="1543719400139" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" timestamp="1543719400147" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_context_support_5_1_3_RELEASE.xml" timestamp="1545104260171" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" timestamp="1543719400167" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" timestamp="1543719400177" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" timestamp="1543719400199" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" timestamp="1545104260181" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_oxm_5_1_3_RELEASE.xml" timestamp="1545104260194" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" timestamp="1543719400229" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" timestamp="1545104260208" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" timestamp="1545104260247" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" timestamp="1545104260264" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_springframework_springloaded_1_2_7_RELEASE.xml" timestamp="1545104743272" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_2_RELEASE.xml" timestamp="1544009833752" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" timestamp="1544009833767" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_thymeleaf_thymeleaf_Release.xml" timestamp="1545295777592" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" timestamp="1544009833780" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" timestamp="1544009833799" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_xmlunit_xmlunit_core_2_6_2.xml" timestamp="1543719400269" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__org_yaml_snakeyaml_1_23.xml" timestamp="1543719400279" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__xerces_xercesImpl_2_11_0.xml" timestamp="1545356508929" />
+    <file path="D:\language\project\erp\demo_01\.idea\libraries\Maven__xml_apis_xml_apis_1_4_01.xml" timestamp="1545356508966" />
+    <file path="D:\language\project\erp\demo_01\.idea\misc.xml" timestamp="1543719399102" />
+    <file path="D:\language\project\erp\demo_01\.idea\modules.xml" timestamp="1543719191531" />
+    <file path="D:\language\project\erp\demo_01\.idea\uiDesigner.xml" timestamp="1544694703904" />
+    <file path="D:\language\project\erp\demo_01\.idea\workspace.xml" timestamp="1545746680957" />
+    <file path="D:\language\project\erp\demo_01\demo.iml" timestamp="1545722438489" />
+  </project-files>
+</conversion>
+

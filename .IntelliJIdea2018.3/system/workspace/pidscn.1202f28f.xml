@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="1344745464">
+      <usages-collector id="statistics.lifecycle.project">
+        <usage id="project.opened" value="5" />
+        <usage id="project.open.time.6" value="1" />
+        <usage id="project.closed" value="5" />
+        <usage id="project.open.time.4" value="2" />
+        <usage id="project.open.time.2" value="1" />
+        <usage id="project.open.time.21" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <usage id="VTL" value="3" />
+        <usage id="JAVA" value="23" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="6970" />
+  </component>
+</project>
